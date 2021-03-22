@@ -23,21 +23,15 @@ Hi! I'm Mariusz, a passionate Offensive Security afficionado. Been solving IT Se
 
 I specialize in Windows & Networks security assessment. Started as a Malware Analyst, pushed my career through all sorts of technical roles & challenges to land myself in Red Team operator's shoes evaluating holistically my Customer's cyber-defensive programmes. 
 
-Career Milestones:
-* ING Tech Poland: Red Team Operator
-* MWR InfoSecurity / F-Secure: Cyber Security Consultant
-* BZWBK / Santander Bank Poland: Senior Cybersecurity Auditor
-* Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer
-* ESET: Malware Researcher, Specialized Software Developer
-
-Certifications acquired:
-* PentesterAcademy Certified Red Team Professional (CRTP)
-* eLearnSecurity Certified Penetration Tester Extreme (eCPTX)
-* CREST Registered Tester (CRT)
-* CCNA 200-125
-* Offensive Security Certified Expert (OSCE)
-* Offensive Security Wireless Professional (OSWP)
-* Offensive Security Certified Professional (OSCP)
+| Career Milestones                                               | Certifications acquired                                     |
+|-----------------------------------------------------------------|-------------------------------------------------------------|
+| ING Tech Poland: Red Team Operator                              | PentesterAcademy Certified Red Team Professional (CRTP)     |
+| MWR InfoSecurity / F-Secure: Cyber Security Consultant          | eLearnSecurity Certified Penetration Tester Extreme (eCPTX) |
+| BZWBK / Santander Bank Poland: Senior Cybersecurity Auditor     | CREST Registered Tester (CRT)                               |
+| Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer | CCNA 200-125                                                |
+| ESET: Malware Researcher, Specialized Software Developer        | Offensive Security Certified Expert (OSCE)                  |
+|                                                                 | Offensive Security Wireless Professional (OSWP)             |
+|                                                                 | Offensive Security Certified Professional (OSCP)            |
 
 Welcome to my Github lair where you'll find all sort of security-related tools of hopefully decent quality. ⚡
 
