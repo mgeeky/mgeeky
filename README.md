@@ -26,8 +26,8 @@ I specialize in Windows & Networks security assessment. Started as a Malware Ana
 | Career Milestones                                               | Certifications acquired                                       |
 |-----------------------------------------------------------------|---------------------------------------------------------------|
 | ING Tech Poland: Red Team Operator                              | _PentesterAcademy Certified Red Team Professional (CRTP)_     |
-| MWR InfoSecurity / F-Secure: Cyber Security Consultant          | _eLearnSecurity Certified Penetration Tester Extreme (eCPTX)_ |
-| BZWBK / Santander Bank Poland: Senior Cybersecurity Auditor     | _CREST Registered Tester (CRT)_                               |
+| MWR InfoSecurity (F-Secure): Cyber Security Consultant          | _eLearnSecurity Certified Penetration Tester Extreme (eCPTX)_ |
+| Santander Bank Poland (BZWBK): Senior Cybersecurity Auditor     | _CREST Registered Tester (CRT)_                               |
 | Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer | _CCNA 200-125_                                                |
 | ESET: Malware Researcher, Specialized Software Developer        | _Offensive Security Certified Expert (OSCE)_                  |
 |                                                                 | _Offensive Security Wireless Professional (OSWP)_             |
