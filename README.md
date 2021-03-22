@@ -12,6 +12,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## mgeeky's code lair
+
+<a href="https://www.linkedin.com/in/mariuszban/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/mariuszbit" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://github.com/mgeeky" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+
+Hi! I'm Mariusz, a passionate Offensive Security afficionado. Been solving IT Security problems from both defensive and offensive sides of the barricade for more than 14 years by now out of which seven profesionally. I was always more attracted to sharing knowledge through my code, tools, scripts, exploits rather than writing blog posts. With that on the table, this Github account acts as my legacy. 😄
+
+I specialize in Windows & Networks security assessment. Started as a Malware Analyst, pushed my career through all sorts of technical roles & challenges to land myself in Red Team operator's shoes evaluating holistically my Customer's cyber-defensive programmes. 
+
+Career Milestones:
+* ING Tech Poland: Red Team Operator
+* MWR InfoSecurity / F-Secure: Cyber Security Consultant
+* Santander Bank Poland: Senior Cybersecurity Auditor
+* Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer
+* ESET: Malware Researcher, Specialized Software Developer
+
+Certifications acquired:
+* PentesterAcademy Certified Red Team Professional (CRTP)
+* eLearnSecurity Certified Penetration Tester Extreme (eCPTX)
+* CREST Registered Tester (CRT)
+* CCNA 200-125
+* Offensive Security Certified Expert (OSCE)
+* Offensive Security Wireless Professional (OSWP)
+* Offensive Security Certified Professional (OSCP)
+
+Welcome to my Github lair where you'll find all sort of security-related tools of hopefully decent quality. ⚡
+
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://binary-offensive.com">
