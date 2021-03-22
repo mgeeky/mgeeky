@@ -33,7 +33,7 @@ I specialize in Windows & Networks security assessment. Started as a Malware Ana
 |                                                                 | _Offensive Security Wireless Professional (OSWP)_             |
 |                                                                 | _Offensive Security Certified Professional (OSCP)_            |
 
-Welcome to my Github lair where you'll find all sort of security-related tools of hopefully decent quality. ⚡
+Welcome to my Github lair where you'll find all sorts of security-related tools of hopefully decent quality. ⚡
 
 #### &#x1f4c8; My GitHub Stats
 
