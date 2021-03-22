@@ -23,15 +23,15 @@ Hi! I'm Mariusz, a passionate Offensive Security afficionado. Been solving IT Se
 
 I specialize in Windows & Networks security assessment. Started as a Malware Analyst, pushed my career through all sorts of technical roles & challenges to land myself in Red Team operator's shoes evaluating holistically my Customer's cyber-defensive programmes. 
 
-| Career Milestones                                               | Certifications acquired                                     |
-|-----------------------------------------------------------------|-------------------------------------------------------------|
-| ING Tech Poland: Red Team Operator                              | PentesterAcademy Certified Red Team Professional (CRTP)     |
-| MWR InfoSecurity / F-Secure: Cyber Security Consultant          | eLearnSecurity Certified Penetration Tester Extreme (eCPTX) |
-| BZWBK / Santander Bank Poland: Senior Cybersecurity Auditor     | CREST Registered Tester (CRT)                               |
-| Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer | CCNA 200-125                                                |
-| ESET: Malware Researcher, Specialized Software Developer        | Offensive Security Certified Expert (OSCE)                  |
-|                                                                 | Offensive Security Wireless Professional (OSWP)             |
-|                                                                 | Offensive Security Certified Professional (OSCP)            |
+| Career Milestones                                               | Certifications acquired                                       |
+|-----------------------------------------------------------------|---------------------------------------------------------------|
+| ING Tech Poland: Red Team Operator                              | _PentesterAcademy Certified Red Team Professional (CRTP)_     |
+| MWR InfoSecurity / F-Secure: Cyber Security Consultant          | _eLearnSecurity Certified Penetration Tester Extreme (eCPTX)_ |
+| BZWBK / Santander Bank Poland: Senior Cybersecurity Auditor     | _CREST Registered Tester (CRT)_                               |
+| Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer | _CCNA 200-125_                                                |
+| ESET: Malware Researcher, Specialized Software Developer        | _Offensive Security Certified Expert (OSCE)_                  |
+|                                                                 | _Offensive Security Wireless Professional (OSWP)_             |
+|                                                                 | _Offensive Security Certified Professional (OSCP)_            |
 
 Welcome to my Github lair where you'll find all sort of security-related tools of hopefully decent quality. ⚡
 
