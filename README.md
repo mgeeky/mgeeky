@@ -26,7 +26,7 @@ I specialize in Windows & Networks security assessment. Started as a Malware Ana
 Career Milestones:
 * ING Tech Poland: Red Team Operator
 * MWR InfoSecurity / F-Secure: Cyber Security Consultant
-* Santander Bank Poland: Senior Cybersecurity Auditor
+* BZWBK / Santander Bank Poland: Senior Cybersecurity Auditor
 * Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer
 * ESET: Malware Researcher, Specialized Software Developer
 
