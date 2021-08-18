@@ -21,18 +21,9 @@ Here are some ideas to get you started:
 
 Hi! I'm Mariusz, an Offensive Security afficionado. Been solving IT Security problems from both defensive and offensive sides of the barricade for more than 14 years by now out of which seven profesionally. I was always more attracted to sharing knowledge through my code, tools, scripts, exploits rather than writing blog posts. With that on the table, this Github account acts as my legacy. 😄
 
-I specialize in Windows & Networks security assessment. Started as a Malware Analyst, pushed my career through all sorts of technical roles & challenges to land myself in Red Team operator's shoes evaluating holistically my Customer's cyber-defensive programmes. 
+My area of expertise is Windows & Networks security assessments. Started as a Malware Analyst, pushed my career through all sorts of technical roles & challenges to land myself in Red Team operator's shoes evaluating holistically my Customer's cyber-defensive programmes. 
 
-| Career Milestones                                               | Certifications acquired                                       |
-|-----------------------------------------------------------------|---------------------------------------------------------------|
-| ING Tech Poland: Red Team Operator                              | _PentesterAcademy Certified Red Team Expert (CRTE)_           |
-| MWR InfoSecurity (F-Secure): Cyber Security Consultant          | _PentesterAcademy Certified Red Team Professional (CRTP)_     |
-| Santander Bank Poland (BZWBK): Senior Cybersecurity Auditor     | _eLearnSecurity Certified Penetration Tester Extreme (eCPTX)_ |
-| Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer | _CREST Registered Tester (CRT)_                               |
-| ESET: Malware Researcher, Specialized Software Developer        | _CCNA 200-125_                                                |
-|                                                                 | _Offensive Security Certified Expert (OSCE)_                  |
-|                                                                 | _Offensive Security Wireless Professional (OSWP)_             |
-|                                                                 | _Offensive Security Certified Professional (OSCP)_            |
+I'm a holder of following cybersecurity/IT certificates: _CRTE, CRTP, eCPTX, CCNA, CREST CRT, OSCP, OSCE, OSWP_ . 
 
 Welcome to my Github lair where you'll find all sorts of security-related tools of hopefully decent quality. ⚡
 
