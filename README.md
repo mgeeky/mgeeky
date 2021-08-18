@@ -25,11 +25,12 @@ I specialize in Windows & Networks security assessment. Started as a Malware Ana
 
 | Career Milestones                                               | Certifications acquired                                       |
 |-----------------------------------------------------------------|---------------------------------------------------------------|
-| ING Tech Poland: Red Team Operator                              | _PentesterAcademy Certified Red Team Professional (CRTP)_     |
-| MWR InfoSecurity (F-Secure): Cyber Security Consultant          | _eLearnSecurity Certified Penetration Tester Extreme (eCPTX)_ |
-| Santander Bank Poland (BZWBK): Senior Cybersecurity Auditor     | _CREST Registered Tester (CRT)_                               |
-| Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer | _CCNA 200-125_                                                |
-| ESET: Malware Researcher, Specialized Software Developer        | _Offensive Security Certified Expert (OSCE)_                  |
+| ING Tech Poland: Red Team Operator                              | _PentesterAcademy Certified Red Team Expert (CRTE)_           |
+| MWR InfoSecurity (F-Secure): Cyber Security Consultant          | _PentesterAcademy Certified Red Team Professional (CRTP)_     |
+| Santander Bank Poland (BZWBK): Senior Cybersecurity Auditor     | _eLearnSecurity Certified Penetration Tester Extreme (eCPTX)_ |
+| Niebezpiecznik.pl: Penetration Tester, Malware Analysis trainer | _CREST Registered Tester (CRT)_                               |
+| ESET: Malware Researcher, Specialized Software Developer        | _CCNA 200-125_                                                |
+|                                                                 | _Offensive Security Certified Expert (OSCE)_                  |
 |                                                                 | _Offensive Security Wireless Professional (OSWP)_             |
 |                                                                 | _Offensive Security Certified Professional (OSCP)_            |
 
