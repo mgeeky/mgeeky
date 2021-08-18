@@ -34,5 +34,5 @@ Welcome to my Github lair where you'll find all sorts of security-related tools 
 </a>
 
 <a href="https://binary-offensive.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgeeky&&hide=cmake&langs_count=5&line_height=35&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgeeky&&hide=cmake&langs_count=5&line_height=35&theme=vue-dark?exclude_repo=cobalt-arsenal" />
 </a>
