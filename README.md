@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 Hi! I'm Mariusz, an Offensive Security afficionado. Been solving IT Security problems from both defensive and offensive sides of the barricade for more than 14 years by now out of which seven profesionally. I was always more attracted to sharing knowledge through my code, tools, scripts, exploits rather than writing blog posts. With that on the table, this Github account acts as my legacy. 😄
 
-My area of expertise is Windows & Networks security assessments. Started as a Malware Analyst, pushed my career through all sorts of technical roles & challenges to land myself in Red Team operator's shoes evaluating holistically my Customer's cyber-defensive programmes. 
+🎓 My area of expertise is Windows & Networks security assessments. Started as a Malware Analyst, pushed my career through all sorts of technical roles & challenges to land myself in Red Team operator's shoes evaluating holistically my Customer's cyber-defensive programmes. 
 
 I'm a holder of following cybersecurity/IT certificates: _CRTE, CRTP, eCPTX, CCNA, CREST CRT, OSCP, OSCE, OSWP_ . 
 
-Welcome to my Github lair where you'll find all sorts of security-related tools of hopefully decent quality. ⚡
+⚡ Welcome to my Github lair where you'll find all sorts of security-related tools of hopefully decent quality. 
 
-If you ever benefited from my projects, tools, scripts, pull requests - if you ever saw my work helpful to others, it would be really awesome if you could consider supporting these efforts through <a href="https://github.com/sponsors/mgeeky">my Github Sponsors page</a>. Simply buying me a coffee or better a beer - would keep way more motivated!
+❤️ If you ever benefited from my projects, tools, scripts, pull requests - if you ever saw my work helpful to others, it would be really awesome if you could consider supporting these efforts through <a href="https://github.com/sponsors/mgeeky">my Github Sponsors page</a>. Show some love and support - consider buying me a coffee or better a beer - as a way of saying thank you! 💪
 
 Cheers!
 
