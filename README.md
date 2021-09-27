@@ -27,6 +27,10 @@ I'm a holder of following cybersecurity/IT certificates: _CRTE, CRTP, eCPTX, CCN
 
 Welcome to my Github lair where you'll find all sorts of security-related tools of hopefully decent quality. ⚡
 
+If you ever benefited from my projects, tools, scripts, pull requests - if you ever saw my work helpful to others, it would be really awesome if you could consider supporting these efforts through <a href="https://github.com/sponsors/mgeeky">my Github Sponsors page</a>. Simply buying me a coffee or better a beer - would keep way more motivated!
+
+Cheers!
+
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://binary-offensive.com">
