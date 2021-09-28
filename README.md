@@ -27,7 +27,7 @@ I'm a holder of following cybersecurity/IT certificates: _CRTE, CRTP, eCPTX, CCN
 
 ⚡ Welcome to my Github lair where you'll find all sorts of security-related tools of hopefully decent quality. 
 
-❤️ If you ever benefited from my projects, tools, scripts, pull requests - if you ever saw my work helpful to others, it would be really awesome if you could consider supporting these efforts through <a href="https://github.com/sponsors/mgeeky">my Github Sponsors page</a>. Show some love and support - consider buying me a coffee or better a beer - as a way of saying thank you! 💪
+❤️ If you ever benefited from my projects, tools, scripts, pull requests - if you ever saw my work helpful to others, it would be really awesome if you could consider supporting these efforts through <a href="https://github.com/sponsors/mgeeky">my Github Sponsors page</a>. You'll receive an exclusive access to my private repositories containing a few other high quality tools and utilities greatly improving Red Teams delivery. Show some love and support - consider buying me a coffee or better a beer - as a way of saying thank you! 💪
 
 Cheers!
 
