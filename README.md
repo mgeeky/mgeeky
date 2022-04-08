@@ -23,7 +23,7 @@ Hi! I'm Mariusz, an Offensive Security afficionado. Been solving IT Security pro
 
 🎓 My area of expertise is Windows & Networks security assessments. Started as a Malware Analyst, pushed my career through all sorts of technical roles & challenges to land myself in Red Team operator's shoes evaluating holistically my Customer's cyber-defensive programmes. 
 
-I'm a holder of following cybersecurity/IT certificates: _CRTE, CRTP, eCPTX, CCNA, CREST CRT, OSCP, OSCE, OSWP_ . 
+I'm a holder of following cybersecurity/IT certificates: _CARTP, CRTE, CRTP, eCPTX, CCNA, CREST CRT, OSCP, OSCE, OSWP_ . 
 
 ⚡ Welcome to my Github lair where you'll find all sorts of security-related tools of hopefully decent quality. 
 
