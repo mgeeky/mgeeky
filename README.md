@@ -35,9 +35,9 @@ Cheers!
 
 
 <a href="https://binary-offensive.com">
-  <img align="center" src="https://github-readme-stats.zohan.tech/api?username=mgeeky&show_icons=true&line_height=33&count_private=true&theme=vue-dark" alt="mgeeky's GitHub Stats" />
+  <img align="center" src="https://readmestats.999857.xyz/api?username=mgeeky&show_icons=true&line_height=33&count_private=true&theme=vue-dark" alt="mgeeky's GitHub Stats" />
 </a>
 
 <a href="https://binary-offensive.com">
-  <img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mgeeky&&hide=cmake&langs_count=5&line_height=35&theme=vue-dark&exclude_repo=cobalt-arsenal" />
+  <img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=mgeeky&&hide=cmake&langs_count=5&line_height=35&theme=vue-dark&exclude_repo=cobalt-arsenal" />
 </a>
